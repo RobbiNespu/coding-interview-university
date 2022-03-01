@@ -38,8 +38,44 @@ Traduções em progresso:
 - [Urdu](https://github.com/jwasham/coding-interview-university/issues/140)
 - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
 - [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
-- [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
-    
+
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Special thanks to:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
+
 ## O que é isso?
 
 Esse é o meu plano de estudo mensal para ir de desenvolvedor web (autodidata, sem formação em Ciência da Computação) à engenheiro de software em uma grande empresa.
@@ -902,7 +938,7 @@ Você ganhará mais prática com grafos no livro do Skiena (veja a seção de li
     - quando é apropriado usá-la
     - como a recursão de cauda é melhor do que nada?
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad) (O Que É Recursão de Cauda E Por Que Ela É Tão Ruim?)
-        - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc) (Recursão de Cauda - vídeo)
+        - [ ] [Tail Recursion (video)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1) (Recursão de Cauda - vídeo)
 
 - ### Programação Dinâmica
     - Esse assunto pode ser bem difícil, já que cada problema solúvel de PD deve ser definido como uma relação de recursão, e isso pode ser complicado.
@@ -1413,7 +1449,7 @@ Repositórios de desafios:
 - [Interactive Coding Interview Challenges in Python](https://github.com/donnemartin/interactive-coding-challenges) (Desafios Interativos de Entrevista de Programação em Python)
 
 Entrevistas Simuladas:
-- [Gainlo.co: Entrevistas simuladas com entrevistadores de grandes empresas](http://www.gainlo.co/)
+- [Gainlo.co: Entrevistas simuladas com entrevistadores de grandes empresas](http://www.gainlo.co/#!/)
 - [Pramp: Entrevistas simuladas com colegas](https://www.pramp.com/)
 - [Refdash: Entrevistas simuladas](https://refdash.com/)
 
@@ -1525,7 +1561,6 @@ Esses tópicos provavelmente não aparecerão em uma entrevista, mas eu adicione
             - [Emacs Tutorial (Beginners) -Part 3- Expressions, Statements, ~/.emacs file and packages](https://www.youtube.com/watch?v=paSgzPso-yc) (Tutorial de Emacs (Iniciantes) - Parte 3 - Expressões, Declarações, arquivo ~/. emacs e pacotes)
         - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc) (Modo Evil: Ou, Como Eu Aprendi A Parar De Me Preocupar E Amar O Emacs - vídeo)
         - [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs) (Escrevendo Programas Em C Com Emacs)
-        - [(maybe) Org Mode In Depth: Managing Structure (video)](https://www.youtube.com/watch?v=nsGYet02bEk) ((talvez) Análise Profunda do Modo Org: Gerenciando Estrutura - vídeo)
 
 - ### Ferramentas de linha de comando do Unix
     - Eu preenchi a lista abaixo com boas ferramentas.

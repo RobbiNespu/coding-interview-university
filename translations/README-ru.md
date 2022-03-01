@@ -2,6 +2,48 @@
 
 Оригинальная версия: [Английский](../README.md) 
 
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Особые благодарности:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Основанная в 2018, OSS Capital - первая и единственная венчурная платформа, ориентированная<br>исключительно для поддержки основателей стартапов на ранней стадии COSS (commercial open source - коммерческий открытый источник).</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Среды разработки, созданные для облачных сервисов</strong>
+                </p>
+            </div>
+            <div>
+                <sup>
+                    Изначально интегрированный с GitLab, GitHub и Bitbucket, Gitpod автоматически, продолжительно и предварительно собирает
+                    среды разработки всех ветвей (branches). В результате члены команды могут мгновенно приступить к написанию кода с новыми
+                    средами разработки для каждой новой задачи - независимо от того, создаете ли вы новую функцию (feature), хотите исправить ошибку
+                    или работаете над проверкой кода (code review). 
+                </sup>            
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
+
 ## Для кого это?
 
 Это мой учебный план, рассчитанный на несколько месяцев для веб-разработчиков, не имеющих образования в Computer Science (CS)
@@ -958,7 +1000,7 @@ Google не возьмёт тебя на работу.
     - когда уместно использование рекурсии?
     - когда лучше использовать хвостовую рекурсию?
         - [ ] [Что такое хвостовая рекурсия и почему её использование нежелательно?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Хвостовая рекурсия (видео)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Хвостовая рекурсия (видео)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Объектно-ориентированное программирование
     - [ ] [Дополнительно: Серия уроков по UML 2.0 (видео)](https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc)
@@ -1370,7 +1412,7 @@ Google не возьмёт тебя на работу.
 - [InterviewBit](https://www.interviewbit.com)
 
 Возможно:
-- [Тестовые интервьюверы из больших компаний](http://www.gainlo.co/)
+- [Тестовые интервьюверы из больших компаний](http://www.gainlo.co/#!/)
 
 ## Перед собеседованием
 

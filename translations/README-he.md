@@ -1,11 +1,58 @@
+# Coding Interview University
+<div dir='rtl'>
+	<h2> על מה מדובר כאן?</h2>
+	<p>
+בהתחלה, זאת היתה רשימה קצרה של נושאי לימוד כדי להיות מהנדס תוכנה, אבל עם הזמן  הפרוייקט צמח להיות מה שאפשר לראות כיום.
+לאחר סיום תוכנית הלימודים הזאת, 
+<a href='https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu'>התקבלתי לעבוד כמפתח תוכנה באמזון!</a>
+את\אתה כנראה לא תצטרכו ללמוד באותה כמות שאני למדתי. בכל אופן כל מה שאתם זקוקים לו נמצא פה.</p>
+<p>
+למדתי בין 8-12 שעות ביום, למשך מספר חודשים. זהו הסיפור שלי:
+<a href='https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13'> למה למדתי במשרה מלאה למשך שמונה חודשים בשביל ראיון עבודה בגוגל.</a>
+</p>
+	<p><strong>אנא שימו לב:</strong> את\ה לא צריכים ללמוד באותה הכמות שאני למדתי. בזבזתי זמן רב על דברים שלא הייתי צריך לדעת. מידע נוסף על כך בהמשך. אני .אעזור לך לסיים מבלי לבזבז את זמנכם היקר
+</p>
+<p>הפריטים ברשימה המובאת כאן יכינו אותך לראיון טכני פחות או יותר בכל חברת טכנולוגיה, כולל הענקיות: אמזון, פייסבוק, גוגל ומייקרוסופט.</p>
+<br/>
+<p font-style='italic'>שיהיה המון בהצלחה!</p>
+</div>
 
-## על מה מדובר כאן?
-זוהי התוכנית הפעולה אותה הגיתי על מנת להפוך בהצלחה ממפתח אתרים, ללא תואר במדעי המחשב, למהנדס תוכנה בחברת גוגל.   
-![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
-
-רשימת המשימות הארוכה המצורפת להלן, הוצאה מקובץ האימון האישי אותו מפרסמת גוגל לעזור למועמדים פוטנציאליים **Google's coaching notes**. לפני שאתם מתחילים במשימה ישנם מספר דברים שעליכם לדעת. 
-ישנם מספר דברים בתחתית הרשימה שמעוד יועילו בהכנה לראיון עצמו לאחר שצלחתם את חומר הלימוד, 
-על מנת לפתור את הבעיות המוצגות בראיון ביעילות.
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Special thanks to:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
 
 חלק גדול מהתכנים לקוחים מהאתר המצויין של סטיב יגיי: המשרה הזו בגוגל? שלך!
 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)"
@@ -954,7 +1001,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - when it is appropriate to use it
     - how is tail recursion better than not?
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Tail Recursion (video)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Object-Oriented Programming
     - [ ] [Optional: UML 2.0 Series (video)](https://www.youtube.com/watch?v=OkC7HKtiZC0&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc)
@@ -1375,7 +1422,7 @@ See [Book List above](#book-list)
 
 ראיונות דמה:
 - [Pramp - להתאמן בראיונות קידוד עם אחרים, בחינם](https://www.pramp.com/)
-- [Mock interviewers from big companies](http://www.gainlo.co/)
+- [Mock interviewers from big companies](http://www.gainlo.co/#!/)
 
 ## Once you're closer to the interview
 
@@ -1529,7 +1576,6 @@ You're never really done.
             - [Emacs Tutorial (Beginners) -Part 3- Expressions, Statements, ~/.emacs file and packages](https://www.youtube.com/watch?v=paSgzPso-yc)
         - [Evil Mode: Or, How I Learned to Stop Worrying and Love Emacs (video)](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
         - [Writing C Programs With Emacs](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Writing_C_programs_with_Emacs)
-        - [(maybe) Org Mode In Depth: Managing Structure (video)](https://www.youtube.com/watch?v=nsGYet02bEk)
 
 - ### Unix command line tools
     - suggested by Yegge, from an old Amazon recruiting post. I filled in the list below from good tools.
